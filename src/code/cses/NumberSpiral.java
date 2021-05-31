@@ -1,5 +1,5 @@
 
-//package code.cses;
+package code.cses;
 
 import java.io.BufferedReader;
 import java.io.IOException;
