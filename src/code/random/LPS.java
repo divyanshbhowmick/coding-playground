@@ -32,7 +32,6 @@ class LPS {
 
 		int largest = lps[0];
 		for (int i = 0; i < lps.length; i++) {
-//			System.out.println(lps[i]);
 			if (lps[i] > largest)
 				largest = lps[i];
 		}
