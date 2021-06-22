@@ -1,4 +1,4 @@
-import java.io.*;
+package code.random.bitmanipulation;
  
 class MinimunNumber
 {
