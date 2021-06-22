@@ -1,3 +1,5 @@
+package code.random.bitmanipulation;
+
 class Joshephus {
 
     public static void main(String args[]){
@@ -14,8 +16,8 @@ class Joshephus {
 
     public static int getInPowerOf2(int no) {
         int i = 1;
-        while (i * 2 <= n) {
-            i = (i * 2) % (1e9 + 10)
+        while (i * 2 <= no) {
+            i = (int) ((i * 2) % (1e9 + 10));
         }
         return i;
     }

@@ -1,3 +1,5 @@
+package code.random.bitmanipulation;
+
 class KernighansAlgo {
 
     public static void main(String args[]){
@@ -7,8 +9,8 @@ class KernighansAlgo {
         while (n > 0){
             int rsb = n & -n;
             n = n - rsb;
-            count++;
+            counter++;
         }
-        System.out.println(count);
+        System.out.println(counter);
     }
 }

@@ -1,3 +1,5 @@
+package code.random.bitmanipulation;
+
 import java.util.ArrayList;
 import java.io.BufferedReader;
 import java.lang.StringBuffer;

@@ -1,3 +1,5 @@
+package code.random.bitmanipulation;
+
 class RSB {
 
     public static void main(String args[]){

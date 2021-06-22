@@ -1,3 +1,5 @@
+package code.cses;
+
 import java.util.ArrayList;
 import java.io.BufferedReader;
 import java.lang.StringBuffer;
