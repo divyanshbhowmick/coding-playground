@@ -3,7 +3,6 @@ package code.random;
 public class PatternMatchingBruteForce {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String s = "de";
 		String pat = "def";
 		if (s.length() < pat.length()) {
