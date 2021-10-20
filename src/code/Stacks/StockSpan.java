@@ -1,5 +1,7 @@
 import java.util.Stack;
 
+// Variation of NGL only.. 
+// Extra step needed is that we neede to store the index of NGL and then substract the NGL index from the price index it will give the result
 class Solution
 {
     //Function to calculate the span of stockâ€™s price for all n days.
