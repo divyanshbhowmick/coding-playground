@@ -3,7 +3,7 @@ package code.random;
 public class PatternMatchingBruteForce {
 
 	public static void main(String[] args) {
-		String s = "de";
+		String s = "defff";
 		String pat = "def";
 		if (s.length() < pat.length()) {
 			System.out.println(0);

@@ -71,5 +71,10 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "valarray": "cpp"
-    }
+    },
+    "java.project.sourcePaths": [
+        "src/code/Stacks",
+        "src/code/Queues",
+        "src"
+    ]
 }
